@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Vacation Decider</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="drawer_item1">Choose Country</string>
+    <string name="drawer_item2">Add new travel entry</string>
+    <string name="drawer_item3">Edit expenditures</string>
+    <string name="drawer_item4">Set currency</string>
+
+    <string-array name="land">
+        <item index="0">Sverige</item>
+        <item index="1">Sør-Korea</item>
+        <item index="2">Tyskland</item>
+        <item index="3">Storbritannia</item>
+        <item index="4">Russland</item>
+    </string-array>
+
+    <string-array name="land__bilder">
+        <item>@drawable/se</item>
+        <item>@drawable/sk</item>
+        <item>@drawable/ge</item>
+        <item>@drawable/uk</item>
+        <item>@drawable/ru</item>
+    </string-array>
+
+    <string-array name="land__info">
+        <item index="0">Grand Hotel, Stockholm</item>
+        <item index="1">Hilton Hotel, Seoul</item>
+        <item index="2">Das Überhotel, Berlin</item>
+        <item index="3">Hotel Britain, London</item>
+        <item index="4">лениндом, Moskva</item>
+    </string-array>
+
+    <string-array name="pris">
+        <item index="0">100</item>
+        <item index="1">200</item>
+        <item index="2">300</item>
+        <item index="3">400</item>
+        <item index="4">500</item>
+    </string-array>
+    <string-array name="flypris">
+        <item index="0">300</item>
+        <item index="1">500</item>
+        <item index="2">800</item>
+        <item index="3">1000</item>
+        <item index="4">1300</item>
+    </string-array>
+    <string-array name="valuta">
+        <item index="0">1.0</item>
+        <item index="1">1.016</item>
+        <item index="2">136.673</item>
+        <item index="3">0.102</item>
+        <item index="4">0.090</item>
+        <item index="5">7.280</item>
+    </string-array>
+    <string-array name="valutatilnok">
+        <item index="0">1.0</item>
+        <item index="1">0.9</item>
+        <item index="2">0.007</item>
+        <item index="3">9.686</item>
+        <item index="4">10.850</item>
+        <item index="5">0.137</item>
+    </string-array>
+    <string-array name="valutanavn">
+        <item index="0">NOK</item>
+        <item index="1">SEK</item>
+        <item index="2">KRW</item>
+        <item index="3">EUR</item>
+        <item index="4">GBP</item>
+        <item index="5">RUB</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Lagre">Lagre</string>
+    <string name="ValutaNOK">NOK</string>
+    <string name="ValutaSEK">SEK</string>
+    <string name="ValutaKRW">KRW</string>
+    <string name="ValutaEUR">EUR</string>
+    <string name="ValutaGBP">GBP</string>
+    <string name="ValutaRUB">RUB</string>
+</resources>
